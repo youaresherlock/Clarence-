@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SmartButler</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="butler_service">服务管家</string>
+    <string name="wechat_selected">微信精选</string>
+    <string name="beautiful_picture">美女图片</string>
+    <string name="personal_center">个人中心</string>
+    <string name="text_setting">设置</string>
+    <string name="text_user_name">用户名</string>
+    <string name="text_age">年龄</string>
+    <string name="text_desc">简介</string>
+    <string name="text_boy">男</string>
+    <string name="text_girl_f">女</string>
+    <string name="text_password">密码</string>
+    <string name="text_email">邮箱</string>
+    <string name="text_register_remind">注册成功需要前往邮箱验证，否则无法登录！</string>
+    <string name="text_registered">注册</string>
+    <string name="text_keep_password">记住密码</string>
+    <string name="text_login">登录</string>
+    <string name="text_forget_password">忘记密码?</string>
+    <string name="text_editor_password">修改密码</string>
+    <string name="text_now_password">旧密码</string>
+    <string name="text_new_password">新密码</string>
+    <string name="text_password_again">再次输入密码</string>
+    <string name="text_now_login">正在登录...</string>
+    <string name="text_now_register">正在注册...</string>
+    <string name="text_welfare">福利</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
