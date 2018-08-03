@@ -1,6 +1,4 @@
 一款简单的工具APP
-这是个毕业设计开发的APP，集成了第三方极光推送等SDK，可以收到推送消息。
-                                                              ----指导老师 王新房老师
                                                               
 This APP is a tool type of APP, the basic functions are: chat, view WeChat selected articles,
 beauty images. Additional features: voice chat to broadcast, SMS alerts, scan the qr code, 
